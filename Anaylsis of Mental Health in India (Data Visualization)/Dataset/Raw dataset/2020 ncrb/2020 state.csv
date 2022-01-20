@@ -1,0 +1,42 @@
+﻿Si. No. (Col.1),Category,State/UT/ (Col.2),Number of Suicides(Col.3),Percentage Share in Total Suicides (Col.4),"Projected Mid-Year Population # (in Lakh)
+ (in Lakh)
+(Col.5)",Rate of Suicides (Col.3/Col.5)
+1,State,Andhra Pradesh,7043,4.6,526,13.4
+2,State,Arunachal Pradesh,160,0.1,15.2,10.5
+3,State,Assam,3243,2.1,347.9,9.3
+4,State,Bihar,809,0.5,1219,0.7
+5,State,Chhattisgarh,7710,5,292.4,26.4
+6,State,Goa,308,0.2,15.5,19.9
+7,State,Gujarat,8050,5.3,691.7,11.6
+8,State,Haryana,4001,2.6,292.1,13.7
+9,State,Himachal Pradesh,857,0.6,73.6,11.6
+10,State,Jharkhand,2145,1.4,381.2,5.6
+11,State,Karnataka,12259,8,665,18.4
+12,State,Kerala,8500,5.6,353.7,24
+13,State,Madhya Pradesh,14578,9.5,837.6,17.4
+14,State,Maharashtra,19909,13,1236.8,16.1
+15,State,Manipur,44,0,31.4,1.4
+16,State,Meghalaya,224,0.1,32.6,6.9
+17,State,Mizoram,108,0.1,12.1,8.9
+18,State,Nagaland,48,0,21.8,2.2
+19,State,Odisha,5546,3.6,454.7,12.2
+20,State,Punjab,2616,1.7,301.8,8.7
+21,State,Rajasthan,5658,3.7,786.1,7.2
+22,State,Sikkim,285,0.2,6.7,42.5
+23,State,Tamil Nadu,16883,11,761.7,22.2
+24,State,Telangana,8058,5.3,375.4,21.5
+25,State,Tripura,845,0.6,40.4,20.9
+26,State,Uttar Pradesh,4804,3.1,2289.3,2.1
+27,State,Uttarakhand,943,0.6,113.1,8.3
+28,State,West Bengal,13103,8.6,977.2,13.4
+Total (States),Total (States),Total (States),148737,97.2,13151.8,11.3
+29,Union Territories,A & N Islands,180,0.1,4,45
+30,Union Territories,Chandigarh,128,0.1,12,10.7
+31,Union Territories,D & N Haveli and Daman & Diu,156,0.1,10.4,15
+32,Union Territories,Delhi (UT),3142,2.1,203.2,15.5
+33,Union Territories,Jammu & Kashmir,287,0.2,133.4,2.2
+34,Union Territories,Ladakh,12,0,3,4
+35,Union Territories,Lakshadweep,2,0,0.7,2.9
+36,Union Territories,Puducherry,408,0.3,15.5,26.3
+Total (UTs),Total (UTs),Total (UTs),4315,2.8,382.1,11.3
+Total (All India),Total (All India),Total (All India),153052,100,13533.9,11.3
