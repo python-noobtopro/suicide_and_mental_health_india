@@ -5,5 +5,7 @@ The data is opensource and no copyright violation is intended.
 
 Sharing the link of various data sources
 NCRB ADSI- https://ncrb.gov.in/en/accidental-deaths-suicides-india-adsi
+
 WHO Suicide Data- https://www.who.int/news-room/fact-sheets/detail/suicide
+
 Lancet - https://www.thelancet.com/journals/lanpsy/article/PIIS2215-0366(21)00152-8/fulltext
